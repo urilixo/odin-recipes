@@ -1,3 +1,19 @@
 body{
-    background-color: aqua;
+    background: -moz-linear-gradient(white,white ,gainsboro, gainsboro) no-repeat center center fixed; 
+    -moz-background-sze: cover;
+    -webkit-background-size:cover;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+li{
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: left;
+}
+h1{
+    border-style: dashed;
+    border-radius: 20px;
+    border-color: coral;
+    color:#252560;
 }
